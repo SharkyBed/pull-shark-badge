@@ -6,3 +6,4 @@ Tambahkan nama dan username GitHub kamu di tabel bawah ini lewat Pull Request un
 |:---|:---|:---|:---|:---|
 | 1 | [@darkkustom459-collab](https://github.com/darkkustom459-collab) | 2026-11-01 | Maintainer | Ready to merge all sharks! 🦈 |
 | 2 | [@contoh-hunter](https://github.com) | 2026-11-01 | Bronze x1 | Hunter badge GitHub garis keras 🔥 |
+| 3 | [@ICR-1](https://github.com/ICR-1) | 2026-11-01 | Bronze x1 | Belajar Pull Request 🦈 |
